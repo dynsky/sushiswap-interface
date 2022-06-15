@@ -4348,10 +4348,10 @@
     "@sushiswap/core-sdk" "1.0.0-canary.34"
     "@sushiswap/tines" "1.0.0-canary.16"
 
-"@sushiswap/tines@^1.0.0-canary.17":
-  version "1.0.0-canary.17"
-  resolved "https://registry.yarnpkg.com/@sushiswap/tines/-/tines-1.0.0-canary.17.tgz#e9e37a53b0eae3d71e4b9f3d0d7f7b7abb1986f9"
-  integrity sha512-uO2ttRlNkTmquXk7LpaXKlUTKPXS3RETpW1ZV1w1lkfBw5aCCyB2iAiNFyUtItnO/nDmncguoeGOlK2HaC9nlQ==
+"@sushiswap/tines@^1.0.0-canary.49":
+  version "1.0.0-canary.49"
+  resolved "https://registry.yarnpkg.com/@sushiswap/tines/-/tines-1.0.0-canary.49.tgz#0bb1c9acdd534fa5e888baad61e470f13e22b2c7"
+  integrity sha512-NsG0ghqkidykU7y6vuV186YxIKFe5OD7DBEbDgXCYKuRXhan7GrecBVXR++Sa/Z4jQoniXu3Uxkr/mMSMoLebg==
   dependencies:
     "@ethersproject/bignumber" "^5.4.0"
     "@sushiswap/core-sdk" "1.0.0-canary.31"
